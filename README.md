@@ -25,7 +25,7 @@ Clonar o projeto
 Diretório do projeto
 
 ```bash
-  cd shopping-cart
+  cd System-Solar
 ```
 
 Instalar dependências
